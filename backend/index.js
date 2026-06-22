@@ -19,7 +19,11 @@ const uri = process.env.MONGO_URL;
 // Middleware
 app.use(
   cors({
-    origin: ["http://localhost:3000"],
+    origin: [
+        "http://localhost:3000",
+        "https://zerodha-clone-frontend.netlify.app",
+        "https://zerodha-clone-dashboard.netlify.app"
+],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
