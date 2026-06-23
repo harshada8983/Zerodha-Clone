@@ -8,54 +8,54 @@ function Footer(){
         style={{}}>
        <div className='row'>
          <div className='col'> 
-            <img src="media/images/logo.svg" style={{width: "50%"}}/>
+            <img src="media/images/logo.svg" style={{width: "50%"}}  alt="Zerodha Logo"/>
             <p>
               &copy;2010 - 2024, Not Zerodha broking Ltd. All rights reserved.
             </p>
          </div>
          <div className='col'>  
             <p style={{fontSize:"25px"}}> Account</p>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Open demat account  </a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Minor demat account</a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>NRI demat account</a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>HUF demat account</a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Commodity</a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Dematerialisation</a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Fund transfer</a><br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>MTF</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Open demat account  </a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Minor demat account</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>NRI demat account</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>HUF demat account</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Commodity</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Dematerialisation</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Fund transfer</a><br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>MTF</a><br></br>
          </div >
          <div className='col'>  
             <p style={{fontSize:"25px"}}> Support</p>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Contact us </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Support portal </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>How to file a complaint? </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Status of your complaints </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Bulletin </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Circular </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Z-Connect blog </a> <br></br>
-              <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Downloads </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Contact us </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Support portal </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>How to file a complaint? </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Status of your complaints </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Bulletin </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Circular </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Z-Connect blog </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Downloads </a> <br></br>
          </div>
          <div className='col'>  
             <p style={{fontSize:"25px"}}>Company</p>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>About</a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Philosophy </a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Press & media </a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Careers </a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Zerodha Cares (CSR) </a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Zerodha.tech </a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Open source </a> <br></br>
-              <a href=" " className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Referral program </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>About</a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Philosophy </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Press & media </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Careers </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Zerodha Cares (CSR) </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Zerodha.tech </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Open source </a> <br></br>
+              <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Referral program </a> <br></br>
          </div>
          <div className='col'>
             <p style={{fontSize:"25px"}}> Quick Links </p>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Upcoming IPOs</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Brokerage charges</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Market holidays</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Economic calendar</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Calculators</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Markets</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Sectors</a><br></br>
-            <a href="" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Gift Nifty</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Upcoming IPOs</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Brokerage charges</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Market holidays</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Economic calendar</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Calculators</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Markets</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Sectors</a><br></br>
+            <a href="/" className='text-muted text-decoration-none' style={{lineHeight: "3"}}>Gift Nifty</a><br></br>
          </div>
        </div>
        <div className='mt-5 text-muted' style={{fontSize: "14px"}}>
