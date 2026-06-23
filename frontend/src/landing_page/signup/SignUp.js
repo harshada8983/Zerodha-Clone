@@ -20,7 +20,7 @@ function Signup() {
 
     try {
       const response = await axios.post(
-        "http://localhost:3002/signup",
+        "https://zerodha-clone-ycv1.onrender.com/signup",
         inputValue
       );
 
