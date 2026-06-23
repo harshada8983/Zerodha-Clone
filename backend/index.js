@@ -10,7 +10,7 @@ const { HoldingsModel } = require("./model/HoldingsModel");
 const { PositionsModel } = require("./model/PositionsModel");
 const { OrdersModel } = require("./model/OrdersModel");
 
-const authRoute = require("./Routes/AuthRoute");
+const authRoute = require("./routes/AuthRoute");
 
 const app = express();
 const PORT = process.env.PORT || 3002;
