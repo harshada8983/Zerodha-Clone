@@ -1,13 +1,14 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 function Brokerage() {
     return (
         <div className='container'>
             <div className='row p-5 mt-5 text-center border-top'>
                 <div className='col-5 p-4'>
-                   <a href="" style={{textDecoration: "none"}}>
-                    <h3 className='fs-5'>Brokerage Calculator</h3>
-                   </a> 
+                   <Link to="/" style={{ textDecoration: "none" }}>
+                     <h3 className='fs-5'>Brokerage Calculator</h3>
+                   </Link> 
                     <ul 
                     style={{textAlign: 'left', lineHeight: "1.8"}} 
                     className='text-muted'>
@@ -22,7 +23,7 @@ function Brokerage() {
                     </ul>
                 </div>
                 <div className='col-5 p-4'>
-                   <a href="" style={{textDecoration: "none"}}>
+                   <a href="/" style={{textDecoration: "none"}}>
                     <h3 className='fs-5'>List of Charges</h3>
                    </a>
                 </div>   
