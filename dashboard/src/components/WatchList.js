@@ -2,7 +2,7 @@ import React, { useState, useContext } from "react";
 
 import { Tooltip, Grow } from "@mui/material";
 
-import { BarChartOutlined, BorderColor, KeyboardArrowDown, KeyboardArrowUp } from "@mui/icons-material";
+import { BarChartOutlined, KeyboardArrowDown, KeyboardArrowUp } from "@mui/icons-material";
 
 import { watchlist } from "../data/data";
 
@@ -65,23 +65,6 @@ const WatchListItem = ({ stock }) => {
         </div>
       </div>
       {showWatchlistActions && <WatchListActions uid={stock.name} />}
-    </li>
-  );
-
-  return (
-    <li onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseEnter}>
-      <div className="item">
-        <p className={stock.isDown ? "down" : "up"}>{stock.name}</p>
-        <div className="itemInfo">
-          <span className="percent">{stock.percent}</span>
-          {stock.isDown ? (
-            <KeyboardArrowDown className="down" />
-          ) : (
-            <KeyboardArrowDown className="down" />
-          )}
-          <span className="price">{stock.price}</span>
-        </div>
-      </div>
     </li>
   );
 };
