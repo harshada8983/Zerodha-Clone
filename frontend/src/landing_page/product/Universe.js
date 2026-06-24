@@ -11,7 +11,7 @@ function Universe() {
                </p>
                
                <div className='col-4 mt-5'>
-                 <img src= "media/images/zerodhaFundhouse.png" style={{width: '210px'}} />
+                 <img src= "media/images/zerodhaFundhouse.png" alt="universe icon" style={{width: '210px'}} />
                   <p className='text-small text-muted'
                     style={{width: "80%", margin: "0 auto", lineHeight: "1.6"}}>
                     Our asset management venture
@@ -20,7 +20,7 @@ function Universe() {
                   </p>
                </div>
                <div className='col-4 mt-5'>
-                 <img src= "media/images/sensibullLogo.svg"  style={{width: '250px'}}/>
+                 <img src= "media/images/sensibullLogo.svg" alt="universe icon" style={{width: '250px'}}/>
                  <p className='text-small text-muted'
                   style={{width: "80%", margin: "0 auto", lineHeight: "1.6"}}>
                    Options trading platform that lets you
@@ -29,7 +29,7 @@ function Universe() {
                  </p>
                </div>
                <div className='col-4 p-3 mt-3 mb-3'>
-                 <img src= "media/images/tijori.svg" style={{width: '150px'}} />
+                 <img src= "media/images/tijori.svg" alt="universe icon" style={{width: '150px'}} />
                  <p className='text-small text-muted'
                     style={{width: "80%", margin: "0 auto", lineHeight: "1.6"}}>
                     Investment research platform
@@ -38,7 +38,7 @@ function Universe() {
                  </p>
                </div>
                <div className='col-4 mt-5'>
-                 <img src= "media/images/streakLogo.png" style={{width: '200px'}}/>
+                 <img src= "media/images/streakLogo.png" alt="universe icon" style={{width: '200px'}}/>
                  <p className='text-small text-muted'
                   style={{width: "80%", margin: "0 auto", lineHeight: "1.6"}}>
                   Systematic trading platform
@@ -47,7 +47,7 @@ function Universe() {
                  </p>
                </div>
                <div className='col-4 p-3 mt-5'>
-                 <img src= "media/images/smallcaseLogo.png" style={{width: '210px'}}/>
+                 <img src= "media/images/smallcaseLogo.png" alt="universe icon" style={{width: '210px'}}/>
                  <p className='text-small text-muted'
                   style={{width: "80%", margin: "0 auto", lineHeight: "1.6"}}>
                     Systematic trading platform
@@ -55,7 +55,7 @@ function Universe() {
                     strategies without coding.</p>
                </div>
                <div className='col-4 mt-5'>
-                 <img src= "media/images/dittoLogo.png" style={{width: '150px'}}/>
+                 <img src= "media/images/dittoLogo.png" alt="universe icon" style={{width: '150px'}}/>
                  <p className='text-small text-muted'
                   style={{width: "80%", margin: "0 auto", lineHeight: "1.6"}}>
                   Personalized advice on life
