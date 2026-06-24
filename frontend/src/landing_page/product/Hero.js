@@ -8,7 +8,7 @@ function Hero() {
             <h3 className='text-muted mt-4 fs-4'>Sleek, modern, and intuitive trading platforms</h3>
             <p className='mt-4 fs-5'>
                 Check out our {" "}
-                <a href=' ' style={{textDecoration: "none"}}>
+                <a href='/' style={{textDecoration: "none"}}>
                     investment offerings {" "}
                     <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </a>
